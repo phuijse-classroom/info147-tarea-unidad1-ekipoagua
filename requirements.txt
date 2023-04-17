@@ -3,7 +3,7 @@ numpy
 matplotlib
 ipympl
 pandas
-voila
+voila   
 pip
 scipy
 scikit-learn
