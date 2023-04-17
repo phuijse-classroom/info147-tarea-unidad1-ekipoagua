@@ -3,3 +3,10 @@ numpy
 matplotlib
 ipympl
 pandas
+voila
+pip
+scipy
+scikit-learn
+cython
+jupyter
+ipykernel
